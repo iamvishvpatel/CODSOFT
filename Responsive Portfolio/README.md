@@ -12,11 +12,11 @@ This project involves the development of a personal portfolio website. The websi
 
 ## Screenshots
 
-![Home-Page](https://github.com/iamvishvpatel/CODSOFT-Portfolio/blob/main/images/homepage.png?raw=true)
+![Home-Page](https://github.com/iamvishvpatel/codSoft/blob/main/Responsive%20Portfolio/images/homepage.png?raw=true)
 
-![Home-Page](https://github.com/iamvishvpatel/CODSOFT-Portfolio/blob/main/images/aboutme.png?raw=true)
+![about-Page](https://github.com/iamvishvpatel/codSoft/blob/main/Responsive%20Portfolio/images/aboutme.png?raw=true)
 
-![Home-Page](https://github.com/iamvishvpatel/CODSOFT-Portfolio/blob/main/images/myservices.png?raw=true)
+![myservices-Page](https://github.com/iamvishvpatel/codSoft/blob/main/Responsive%20Portfolio/images/myservices.png?raw=true)
 
-![Home-Page](https://github.com/iamvishvpatel/CODSOFT-Portfolio/blob/main/images/contactus.png?raw=true)
+![contactus-Page](https://github.com/iamvishvpatel/codSoft/blob/main/Responsive%20Portfolio/images/contactus.png?raw=true)
 
